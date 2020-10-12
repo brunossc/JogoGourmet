@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JogoGourmet", "JogoGourmet\JogoGourmet.csproj", "{C026896E-2585-420B-B32F-44997526ED42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JogoGourmetTest", "JogoGourmetTest\JogoGourmetTest.csproj", "{52FF73B1-E125-41E8-9112-992C4CC90A2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C026896E-2585-420B-B32F-44997526ED42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C026896E-2585-420B-B32F-44997526ED42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C026896E-2585-420B-B32F-44997526ED42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C026896E-2585-420B-B32F-44997526ED42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52FF73B1-E125-41E8-9112-992C4CC90A2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52FF73B1-E125-41E8-9112-992C4CC90A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52FF73B1-E125-41E8-9112-992C4CC90A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52FF73B1-E125-41E8-9112-992C4CC90A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E8F82D2-C71A-4C94-80A7-31EDDCF5E64D}
+	EndGlobalSection
+EndGlobal
